@@ -1,6 +1,12 @@
 # Deep Learning-based Drum Sound Classification with ZCR and Spectral Centroid
 
 โปรเจคนี้มุ้งเน้นการใช้ Deep Learning จำแนกเสียงกลองประเภท Kick Drum และ Snare Drum เป็นการประยุกต์ใช้เทคนิคสมัยใหม่ในการเรียนรู้จากข้อมูลเสียงที่สกัดfeature เช่น Zero Crossing Rate (ZCR) และ Spectral Centroid ที่ช่วยเพิ่มความแม่นยำในการจำแนกเสียงโดย มีขั้นตอนดังนี้
+<p align="center">
+  <img width="200" height="200" src="https://github.com/NoppalitP/Classification_drum_sounds/blob/main/kck.png">
+</p>
+<p align="center">
+  <img width="200" height="200" src="https://github.com/NoppalitP/Classification_drum_sounds/blob/main/snare.png">
+</p>
 
 ## 1.  การเตรียมข้อมูล (Data Preparation):
 
